@@ -13,3 +13,4 @@ DB_HOST=<ХОСТ>
 ```
 docker-compose up -d --build
 ```
+123123123
